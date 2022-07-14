@@ -1,2 +1,2 @@
-# digitalhouse_ws1
-1 workshop em grupo
+# WORKSHOP DATA SCIENCE - DIGITAL HOUSE
+1º Workshop com objetivo de realizarmos analises e EDA sobre o dataset ENEM ano 2.019
